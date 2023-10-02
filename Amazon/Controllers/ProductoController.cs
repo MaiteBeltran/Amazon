@@ -13,5 +13,13 @@ namespace Amazon.Controllers
         {
             return View();
         }
+
+        //public ActionResult Detalle(id)
+        //{
+        //    var producto = ObtenerDetalleProducto(id);
+
+        //    return View(producto);
+        //}
+
     }
 }
